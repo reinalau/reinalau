@@ -16,4 +16,4 @@ Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | AWS 
 
 
 ### Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/reinalau)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/reinalau)
