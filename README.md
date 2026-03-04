@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy LauB
 
-Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | AWS Certified x 4
+Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | AWS Certified x 4 | AWS Community Builder
 
 ### Tecnologías de interes
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -12,7 +12,7 @@ Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | AWS 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-E75480?style=flat&logo=ai&logoColor=white)
 
 
-- 🌱 Estoy entrenando en la nube de aws y gcp. También aprendiendo Terraform 🌊 
+- 🌱 Estoy entrenando en la nube de aws y gcp. También aprendiendo Terraform 🌊  y ahora soy AWS Community Builder 🤓
 - 👯 Colaboro en diferentes comunidades tech, especialmente con temas cloud.
 - 💬 Sobre mi trayectoria:  puedo contar que hace muchos años que trabajo en IT en diferentes roles. Para saber + → visita mi perfil en Linkedin.
 - 🔭 Subo repos con ejemplos para aprender sobre tecnologias cloud, serverless, integraciones y GenAI.
