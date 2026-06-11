@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy LauB
 
-Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | AWS Certified x 5 | AWS Community Builder
+Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | Cloud Engineer | AWS Certified x 6 | AWS Community Builder
 
 ### Tecnologías de interes
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
