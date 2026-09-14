@@ -10,6 +10,7 @@ Program Manager | Analista Técnico Funcional | Developer Entusiasta 😎 | Clou
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-E75480?style=flat&logo=ai&logoColor=white)
+![Strands Agents](https://img.shields.io/badge/Strands_Agents-SDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 
 - 🌱 Estoy entrenando en la nube de aws y gcp. También aprendiendo Terraform 🌊  y ahora soy AWS Community Builder 🤓
